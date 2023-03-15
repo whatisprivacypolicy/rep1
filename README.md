@@ -5,9 +5,13 @@
 BikeStores Sample Database - оригинальная база данных
 
 view.sql - создание представления в sql
+
 view.csv - результат в текстовом файле
+
 bikes_table.py -  пример выгрузки, модификации и загрузки данных на pandas/sql
+
 plots.py - создание графиков matplotlib, идентичных графикам в дэшборде
+
 ***.png - графики
 
 tableau dashboards - ссылки на дэшборд
