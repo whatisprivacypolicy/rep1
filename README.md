@@ -10,7 +10,7 @@ view.csv - результат в текстовом файле
 
 bikes_table.py -  пример выгрузки, модификации и загрузки данных на pandas/sql
 
-matplotlin plots - создание графиков matplotlib, идентичных графикам в дэшборде
+matplotlib plots - создание графиков matplotlib, идентичных графикам в дэшборде
 
 pandas_demo - демонстрациооный файл функций pandas
 
