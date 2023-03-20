@@ -10,9 +10,10 @@ view.csv - результат в текстовом файле
 
 bikes_table.py -  пример выгрузки, модификации и загрузки данных на pandas/sql
 
-plots.py - создание графиков matplotlib, идентичных графикам в дэшборде
+matplotlin plots - создание графиков matplotlib, идентичных графикам в дэшборде
 
-***.png - графики
+pandas_demo - демонстрациооный файл функций pandas
+
 
 tableau dashboards - ссылки на дэшборд
 ссылка на дэшборд продаж BikeStores: https://public.tableau.com/views/Revenue_16787477220380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
